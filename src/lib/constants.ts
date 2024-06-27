@@ -1,6 +1,6 @@
 export const LINKS = {
   github: "https://github.com/delphyinium",
-  linkedin: "https://www.linkedin.com/in/lucas-pearson/",
+  linkedin: "https://www.linkedin.com/in/lucas-pearson-202721303/",
   medium: "https://medium.com",
   discord: "https://discordapp.com/users/461206564569743375",
   dribble: "https://dribbble.com/",
